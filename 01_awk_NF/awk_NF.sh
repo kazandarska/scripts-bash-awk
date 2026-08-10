@@ -1,14 +1,3 @@
-# ==============================================================================
-# SCRIPT NAME: awk1.sh
-# DESCRIPTION: Computes row-by-row averages from numeric data using AWK.
-#              Employs a 'for' loop to iterate over fields, utilizes 'NF' 
-#              (Number of Fields) for the average calculation, handles data 
-#              validation via conditional 'if-else' statements, and outputs 
-#              the final results formatted to two decimal places (%.2f).
-# DATA TYPE USED: .txt format
-# DATA STRUCTURE: clean data, natural numbers, space-separated columns 
-                  not transferred from Windows (LF)
-# ==============================================================================
 
 #!/bin/bash
 plik="dane.txt"
