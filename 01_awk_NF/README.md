@@ -1,8 +1,10 @@
-# ============================================================================
 SCRIPT TITLE: awk_NF
+
 DATA FORMAT: .txt
+
 TYPE OF DATA USED: clean data, natural numbers, space-separated columns
                   not transferred from Win (LF)
+                  
 USAGE: The script calculates the row average using awk, rounds it to %.2f\n, and applies internal if-else if-else conditions.
 
 WHAT I HAVE LEARND FROM THIS PROJECT:
