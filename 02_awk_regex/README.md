@@ -2,7 +2,7 @@ SCRIPT TITLE: awk_regex
 
 DATA FORMAT: .txt format
 
-TYPE OF DATA USED: clean data, natural numbers, space-separated coliumns, not transferred from Win (LF)
+TYPE OF DATA USED: clean data, natural numbers, space-separated columns, not transferred from Win (LF)
 
 USAGE: This script calculates the average of rows that have been pre-filtered using a regular expression (regex) and a `row++` counter.
 
