@@ -1,4 +1,4 @@
-SCRIPT TITLE: awk_seq_scanner
+SCRIPT TITLE: awk_seq_scanner.sh
 
 DATA FORMAT: .txt format
 
